@@ -20,10 +20,10 @@
 
 #Screenshots
 
-![1](https://ibb.co/p3LK1c0)
-![2](https://ibb.co/G7WxYJK)
-![3](https://ibb.co/S6PcRd2)
-![4](https://ibb.co/7RLBbkp)
-![5](https://ibb.co/MCWhQ6x)
+![1](https://drive.google.com/open?id=1vJ5Z939Hi8G9K0a0cOj_zWlxhHU3VULK)
+![2](https://drive.google.com/open?id=1A1SR_h3VxnNPWq5o1WHc-pQC67_gA7Zi)
+![3](https://drive.google.com/open?id=1rK3pOHct8jAzsngeXTUaBYJ0OBaJnOMZ)
+![4](https://drive.google.com/open?id=1pKN75PqAfaddTCmt9zKioEeq3cpA7QCQ)
+![5](https://drive.google.com/open?id=1nlPtRs4_pENSj3oshFa5MCPLBFAC9yQ_)
 
 ###The End
