@@ -20,10 +20,10 @@
 
 #Screenshots
 
-![1](E:\Milestone_2_SS\1.png)
-![2](E:\Milestone_2_SS\2.png)
-![3](E:\Milestone_2_SS\3.png)
-![4](E:\Milestone_2_SS\4.png)
-![5](E:\Milestone_2_SS\5.png)
+![1](E:\Milestone_2_SS\1.png?raw=true)
+![2](E:\Milestone_2_SS\2.png?raw=true)
+![3](E:\Milestone_2_SS\3.png?raw=true)
+![4](E:\Milestone_2_SS\4.png?raw=true)
+![5](E:\Milestone_2_SS\5.png?raw=true)
 
 ###The End
