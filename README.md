@@ -1,12 +1,12 @@
 # Project
 
-##About me:
+## About me:
 
 *My name is **Shreyas Goyal.*
 *I am new to GitHub. Actually I am a newbie to many things Computer Science.*
 *Experience has been good so far. Learning a lot.*
 
-##My Hobbies
+## My Hobbies
 
 1. Reading
 1. Playing
@@ -18,7 +18,7 @@
 1. Playing guitar
 1. Eating
 
-#Screenshots
+# Screenshots
 
 ![1](./1.png)
 ![2](./2.png)
@@ -26,4 +26,4 @@
 ![4](./4.png)
 ![5](./5.png)
 
-###The End
+### The End
