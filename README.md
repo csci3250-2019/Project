@@ -20,10 +20,10 @@
 
 #Screenshots
 
-![1](https://drive.google.com/open?id=1vJ5Z939Hi8G9K0a0cOj_zWlxhHU3VULK)
-![2](https://drive.google.com/open?id=1A1SR_h3VxnNPWq5o1WHc-pQC67_gA7Zi)
-![3](https://drive.google.com/open?id=1rK3pOHct8jAzsngeXTUaBYJ0OBaJnOMZ)
-![4](https://drive.google.com/open?id=1pKN75PqAfaddTCmt9zKioEeq3cpA7QCQ)
-![5](https://drive.google.com/open?id=1nlPtRs4_pENSj3oshFa5MCPLBFAC9yQ_)
+![1](E:\Milestone_2_SS\1.png)
+![2](E:\Milestone_2_SS\2.png)
+![3](E:\Milestone_2_SS\3.png)
+![4](E:\Milestone_2_SS\4.png)
+![5](E:\Milestone_2_SS\5.png)
 
 ###The End
